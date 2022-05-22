@@ -1,0 +1,83 @@
+[
+  {
+    "Animal": {
+      "Id": 1,
+      "TypeAnimal": "Млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 7.0,
+      "Weight": 51.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 2,
+      "TypeAnimal": "Млекопитающее",
+      "Name": "Лисья белка",
+      "Age": 1.0,
+      "Weight": 5.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 8,
+      "TypeAnimal": "млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 8.0,
+      "Weight": 34.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 9,
+      "TypeAnimal": "млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 8.0,
+      "Weight": 34.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 22,
+      "TypeAnimal": "Млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 5.0,
+      "Weight": 29.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 23,
+      "TypeAnimal": "Млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 5.0,
+      "Weight": 29.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 24,
+      "TypeAnimal": "Млекопитающее",
+      "Name": "Кенгуру",
+      "Age": 5.0,
+      "Weight": 29.0
+    }
+  },
+  {
+    "Animal": {
+      "Id": 28,
+      "TypeAnimal": "Земноводное",
+      "Name": "Лягушка",
+      "Age": 0.5,
+      "Weight": 0.12
+    }
+  },
+  {
+    "Animal": {
+      "Id": 31,
+      "TypeAnimal": "Птица",
+      "Name": "Синица",
+      "Age": 0.22,
+      "Weight": 0.15
+    }
+  }
+]
